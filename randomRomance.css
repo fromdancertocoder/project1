@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(43, 123, 101);
+    text-align: center;
+    font-family: cursive;
+}
+
+#title {
+    font-size: 45px;
+}
+
+footer {
+    text-align: left;
+    color: darkblue;
+    font-size: 20px;
+}
+
+#button:hover {
+    background-color: orange;
+}
+
+p {
+    font-size: 25px;
+}
+
+img {
+    max-width: 50px ;
+    max-height: 50px;
+}
